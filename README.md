@@ -1,7 +1,7 @@
 # PLATAFORMA INTELIGENTE DE MOVILIDAD URBANA - URBANFLOW
 ## TERCERA EVALUACIÓN SEMESTRAL - QUINTA HACKATON
 **INTEGRANTE(S) / GRUPO:** Team PIN-8  
-**UNIVERSIDAD:** Facultad de Ciencias y Tecnología  
+**UNIVERSIDAD:** Universidad Catolica Boliviana  
 **FECHA DE ENTREGA:** 02 de Junio de 2026  
 
 ---
@@ -11,8 +11,6 @@
 * **Empresa Contratada:** UrbanFlow Technologies Ltda.
 * **Cliente:** Alcaldía Metropolitana (Metrópolis de >5 Millones de Habitantes)
 * **Equipo de Desarrollo (Team PIN-8):**
-  * *Arquitecto de Software & DevOps Engineer:* Antigravity AI
-  * *Miembros del Grupo:* [Por Completar por el Usuario]
 * **Repositorios de GitHub del Grupo:**
   * Backend Monorepo: `https://github.com/team-pin8/urbanflow-platform`
 
